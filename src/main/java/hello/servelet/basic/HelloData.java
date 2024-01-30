@@ -7,6 +7,6 @@ import lombok.Setter;
 public class HelloData {
 
     private String userName;
-    private String age;
+    private int age;
 
 }
